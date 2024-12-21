@@ -2,9 +2,7 @@ import React from 'react'
 
 const ServicesSection = () => {
     return (
-        <div id='services' className='h-screen bg-red-500'>
-
-        </div>
+        <div id='services' className='min-h-screen'>ServicesSection</div>
     )
 }
 
