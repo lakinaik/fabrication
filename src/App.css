@@ -157,7 +157,7 @@ body {
 
 
 .slider-wrapper {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.631), rgba(0, 0, 0, 0.517)), url('./Images/slider/slide-1.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.631), rgba(0, 0, 0, 0.517)), url('/Images/slider/slide-1.jpg');
 }
 
 .hero-section {
@@ -175,7 +175,7 @@ body {
 }
 
 .step-wrapper {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.226), rgba(0, 0, 0, 0.3)), url('./Images/bg-1.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.226), rgba(0, 0, 0, 0.3)), url('/Images/bg-1.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
