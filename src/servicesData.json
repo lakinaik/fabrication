@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "title": "Custom Metal Fabrication",
+        "description": "Tailored solutions to meet your specific design and functionality needs, from prototypes to fully finished products, ensuring precision and quality every step of the way.",
+        "image": "/Images/services/service-1.jpeg"
+    },
+    {
+        "id": "2",
+        "title": "Sheet Metal Processing",
+        "description": "Expert cutting, bending, and assembling of sheet metal to create durable and versatile components for various industrial applications.",
+        "image": "/Images/services/service-2.jpeg"
+    },
+    {
+        "id": "3",
+        "title": "Welding and Assembly",
+        "description": "Strong, reliable welding and assembly services using advanced techniques to deliver robust, high-performance structures and products.",
+        "image": "/Images/services/service-3.jpeg"
+    },
+    {
+        "id": "4",
+        "title": "Metal Cutting and Laser Cutting",
+        "description": "Precision cutting services, including advanced laser cutting, to achieve intricate designs and accurate dimensions for all types of metal.",
+        "image": "/Images/services/service-4.jpeg"
+    },
+    {
+        "id": "5",
+        "title": "Structural Fabrication",
+        "description": "Design and manufacturing of metal frameworks and structures for industrial, commercial, and residential purposes with a focus on strength and durability.",
+        "image": "/Images/services/service-5.jpeg"
+    },
+    {
+        "id": "6",
+        "title": "Equipment Repair and Maintenance",
+        "description": "Expert repair and maintenance services to extend the lifespan and performance of metal components and industrial equipment.",
+        "image": "/Images/services/service-6.jpeg"
+    }
+]

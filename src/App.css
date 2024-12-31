@@ -45,6 +45,7 @@ html,
 body {
   /* font-family: "Inter", serif; */
   font-family: "Poppins", serif;
+  scroll-behavior: smooth;
 }
 
 .poppins-thin {
@@ -155,13 +156,18 @@ body {
   font-style: italic;
 }
 
-
 .slider-wrapper {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.631), rgba(0, 0, 0, 0.517)), url('/Images/slider/slide-1.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.631), rgba(0, 0, 0, 0.517)),
+    url("/Images/slider/slide-1.jpg");
 }
 
 .hero-section {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.986) 40%, rgba(0, 0, 0, 0.032)), url('/Images/slide-1.jpg');
+  background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.986) 40%,
+      rgba(0, 0, 0, 0.032)
+    ),
+    url("/Images/slide-1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -175,7 +181,32 @@ body {
 }
 
 .step-wrapper {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.226), rgba(0, 0, 0, 0.3)), url('/Images/bg-1.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.226), rgba(0, 0, 0, 0.3)),
+    url("/Images/bg-1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.about-us-section {
+  /* background-image: linear-gradient(rgba(241, 231, 231, 0.343) 0.52),
+    rgba(255, 255, 255, 0.28), url("/Images/about-bg.jpg"); */
+  background-image: linear-gradient(#fffffff5, #ffffffd3),
+    url("/Images/about-bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.services-section {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.506), rgba(0, 0, 0, 0.568)),
+    url("/Images/services-bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.call-to-action-wrapper {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.294), rgba(0, 0, 0, 0.974)),
+    url("/cta.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
